@@ -36,7 +36,7 @@ Refs: https://genshin-impact.fandom.com/wiki/Hilichurlian
 |kundala|to kill, to fight[5]|May also mean "enemy" as a noun|
 |dala|what?[5]||
 |si|thing[5]||
-|valo|thank you[5]||
+|valo|thank you, bye[5]||
 |buka|stomach[5]|May possibly indicate hunger.|
 |guru-guru|hungry[5]||
 |kucha|weak;[5] small[4]|Kucha gusha (lit. "small grass") means seed.[4] Slightly contemptuous connotation.[4]|
