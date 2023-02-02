@@ -1,7 +1,9 @@
 HiliChurlian Dictionary
 ====
 
-Refs: https://genshin-impact.fandom.com/wiki/Hilichurlian
+Refs:
+* https://genshin-impact.fandom.com/wiki/Hilichurlian
+* https://wiki.biligame.com/ys/%E6%9C%AC%E4%B8%98%E5%AD%A6%E5%AE%B6%E5%AE%A3%E5%B8%83%E5%B7%B2%E7%BB%8F%E5%9F%BA%E6%9C%AC%E7%A0%B4%E8%AF%91%E4%BA%86%E4%B8%98%E4%B8%98%E4%BA%BA%E8%AF%AD%EF%BC%8C%E5%B9%B6%E5%8F%91%E7%8E%B0%E4%BA%86%E4%B8%98%E4%B8%98%E4%BA%BA%E7%9A%84%E7%A5%9E%E7%81%B5%E4%B9%8C%E5%8A%AA
 
 |Hilichurlian|English|Notes|
 |--- |--- |--- |
